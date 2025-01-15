@@ -1,1 +1,10 @@
-
+look first 
+make on folder in your laptop
+then open with vs code
+then open terminal
+then type npm init -y
+then npm i mongoose
+then make one file
+like touch index.js
+then connect
+then run using node index.js
