@@ -1,1 +1,10 @@
 
+first make folder 
+then open the that folder with vs code
+then open terminal
+then npm init -y
+then npm i express
+then npm i ejs
+also npm i mongoose
+then make file 
+use touch index.js
